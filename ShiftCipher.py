@@ -21,7 +21,7 @@ def decrypt_shift_cipher(ciphertext, shift):
     return plaintext
 
 # Example usage
-text = "Hello World"
+text = "Its raining"
 shift_key = 3
 
 print("SHIFT CIPHER")
